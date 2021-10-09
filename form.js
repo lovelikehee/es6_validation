@@ -1,6 +1,6 @@
 const join = document.querySelector("#join");
 const btnSend = join.querySelector("input[type=submit");
-const items = ["userind", "pwd", "email", "hobby", "gender", "comments"];
+const items = ["userid", "pwd", "email", "hobby", "gender", "comments"];
 let isValid = false;
 let i=0;
 
